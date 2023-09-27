@@ -1,12 +1,15 @@
+# Employee-portfolio
 
-Employment Porfolio
-description
-Updating herizon website to meet sematic HTML standards. Changed divs to sections to better organize content, added alt content for all images.
+## description
+Uploading first website about myself to introduce my projects, accomplishments, and contact information through links and images to display my skill sets as a developer.
 
-application img'
-Screen Shot 2023-09-21 at 3 39 28 PM
-URL
-https://github.com/ShahanAmeen/hw-01 https://shahanameen.github.io/hw-01/
+## application img'
+![image](https://github.com/ShahanAmeen/Employee-portfolio/assets/144054784/83a1d1be-163f-44d5-a777-684168e16e89)
 
-Author
-Shahan Ameen https://github.com/ShahanAmeen
+
+## URL
+https://github.com/ShahanAmeen/Employee-portfolio
+https://shahanameen.github.io/Emploee-porfolio/ 
+## Author
+Shahan Ameen
+https://github.com/ShahanAmeen 
