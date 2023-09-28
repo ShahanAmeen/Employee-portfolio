@@ -9,7 +9,8 @@ Uploading first website about myself to introduce my projects, accomplishments, 
 
 ## URL
 https://github.com/ShahanAmeen/Employee-portfolio
-https://shahanameen.github.io/Emploee-porfolio/ 
+<br>
+https://shahanameen.github.io/Employee-portfolio/
 ## Author
 Shahan Ameen
 https://github.com/ShahanAmeen 
