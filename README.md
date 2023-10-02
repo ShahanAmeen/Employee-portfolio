@@ -4,7 +4,7 @@
 Uploading first website about myself to introduce my projects, accomplishments, and contact information through links and images to display my skill sets as a developer.
 
 ## application img'
-![img]("./assets/sswebsite.png")
+C:\Users\15072\Documents\bootcamp\homework\Employee-portfolio\assets\sswebsite.png
 
 
 ## URL
