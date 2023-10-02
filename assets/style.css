@@ -30,7 +30,7 @@ body {
 #image2{
     height: 300px;
     width: 300px;
-    padding: 20px;
+    padding: 40px;
 }
 
 .listFlex {
@@ -57,7 +57,7 @@ body {
 .header {
     padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #8d8d8f;
+    background-color: #797982;
     color: #f3ecec;
 }
 
